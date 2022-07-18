@@ -1,0 +1,1 @@
+# batch_maker_for_pic2pdf
